@@ -28,11 +28,11 @@
   }
 
 , "files":
-  [ "/*.js"
-  , "/module/"
-  , "/test/"
-  , "/Readme.md"
-  , "/License.md"
+  [ "*.js"
+  , "module/"
+  , "test/"
+  , "Readme.md"
+  , "License.md"
   ]
 
 , "license": "MIT"
